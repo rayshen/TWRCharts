@@ -1,5 +1,6 @@
 TWRCharts
 =================
+![iOS Simulator Screen Shot 2015年8月1日 下午9.10.56.png](https://ooo.0o0.ooo/2015/08/01/55bcc5717f88f.png "iOS Simulator Screen Shot 2015年8月1日 下午9.10.56.png")
 
 ## TWRCharts
 
